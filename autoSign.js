@@ -36,7 +36,7 @@
     if (!signBtn)
       return
 
-    if (signBtn.tectContent.includes('立即签到')) {
+    if (signBtn.textContent.includes('立即签到')) {
       console.log('未签到')
       // 点击签到按钮
       signBtn.click()
