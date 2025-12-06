@@ -7,6 +7,7 @@
 // @match        *://*/*
 // @grant        GM_getValue
 // @grant        GM_setValue
+// @grant        GM_openInTab
 // @grant        unsafeWindow
 // @run-at       document-idle
 // @noframes
